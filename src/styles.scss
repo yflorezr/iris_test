@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+:root {
+    --color-primary: #00d2c4;
+    --color-secondary: #f4f4f9;
+    --color-font-primary: #004646;
+    --color-background: #f2f2f2;
+}
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; background-color: var(--color-background);}
+p {
+    color: var(--color-font-primary);
+    font-size: 30px;
+    font-weight: 500;
+}
+select {
+    $form-select-indicator-color: red;
+}

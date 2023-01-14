@@ -1,0 +1,11 @@
+input {
+    border-right: 0px;
+}
+.input-group span {
+    background-color: transparent;
+    cursor: pointer;
+    font-size: 18px;
+    padding-right: 14px;
+    color: var(--color-font-primary);
+    font-weight: bold;
+}
