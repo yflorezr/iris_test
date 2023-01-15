@@ -22,7 +22,7 @@ import { ListTasksComponent } from './components/list-tasks/list-tasks.component
     BrowserModule,
     AppRoutingModule,
     BrowserAnimationsModule,
-    FormsModule
+    FormsModule,
   ],
   providers: [],
   bootstrap: [AppComponent]

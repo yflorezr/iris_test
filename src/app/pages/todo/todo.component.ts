@@ -8,8 +8,6 @@ import { ItemModel } from 'src/app/models/item.model';
 })
 export class TodoComponent implements OnInit {
 
-  public item: ItemModel = new ItemModel()
-
   ngOnInit(): void {
   }
 }
