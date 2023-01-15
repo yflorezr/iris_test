@@ -13,6 +13,8 @@ NOTA: RETO 2
 - Se agrega funcionalidad para reover todos los elementos de un grupo
 - Los elementos al darle check se tachan para saber que ya esta completo
 
+A TENER EN CUENTA: El proyecto utiliza como fuente de persistencia LocalStorage
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
